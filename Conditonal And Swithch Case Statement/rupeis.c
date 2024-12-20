@@ -1,3 +1,6 @@
+// 3. Write a currency program that tells you how many 500,200,100,50,20,10,5,2 and 1 Rs. notes will be needed for a given amount of money
+
+
 #include <stdio.h>
 
 int main() {

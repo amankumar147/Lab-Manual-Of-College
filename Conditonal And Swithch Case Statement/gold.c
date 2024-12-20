@@ -1,3 +1,12 @@
+//4. Write a program that estimated the price of rings for an online shop that sells rings with custom engravings. The online shop has the following price structure:
+// • Gold plated rings have a base cost of Rs. 500, and you charge 70.30 per engraved unit.
+// • Solid gold rings have a base cost of Rs. 1000, and you charge 10.40 per engraved unit
+// • Silver plated rings have a base cost of Rs. 300, and you charge 5.10 per engraved unit.
+// • Find the total cost as per the ring purchase by customer.
+
+
+
+
 #include <stdio.h>
 
 int main() {
